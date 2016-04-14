@@ -26,7 +26,7 @@ Well the list of things that you can contribute are as follows:
 8. Create a list that focuses on the internet related things in NITH, like the proxy working in various hostels, computer centre, timmings, or anything that would be useful to know.
 9. Add items that were told in the workshop but were not present in the list(like adding proxy in mobile).
 10. Add a list related to simple hacking.
-11. Arrange the items alphabetically
+11. Arrange the items alphabetically.
 
 **Guidelines for contribution**
 
