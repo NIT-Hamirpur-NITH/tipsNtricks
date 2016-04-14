@@ -1,4 +1,4 @@
-**Firefox -**
+#### **Firefox -**
 
 1.  **AdBlock -** Block all the adds on firefox.
 
@@ -24,7 +24,7 @@
 
 12. **Incognito mode -** Ctrl + Shift + N(Chrome),  Ctrl + Shift + P(Firefox)
 
-**Chrome - **
+#### **Chrome - **
 
 1.  **Folder upload option -** Chrome has the option to upload the complete folder. This option is not available in firefox.
 
@@ -39,7 +39,7 @@
 6.  **Limitless -** Beautiful dashboard to easily identify where your time is spent and gives productivity.
 7.  **Momentum -** Another beautiful dashboard featuring todo, weather, and inspiration.
 
-**Common to Both Browsers **
+#### **Common to Both Browsers **
 
 1.  **Hola Free VPN -** Access blocked website, youtube videos.
 
@@ -47,7 +47,7 @@
 
 3.  **Momentum -** Cool Homepage for chrome with to-do list.
 
-**Websites -**
+#### **Websites -**
 
 1.  **Dayt.se, couchtuner.ag, shush, kissanime.to -** Get all the tv series and movies in HD.
 
@@ -117,7 +117,7 @@
 
 34. **SecurityKiss.com**
 
-**Single Page Web Application **
+#### **Single Page Web Application **
 
 1.  [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
 
@@ -137,7 +137,7 @@
 
 9.  [*Codeshare*](https://codeshare.io/) - Share live code editor without registration
 
-**Linux Software -**
+#### **Linux Software -**
 
 1.  **Guake** - Drop down terminal
 
@@ -219,7 +219,7 @@
 
 40. **Easy Stroke Gesture recorder-**  control your desktop using mouse gestures
 
-**Windows Software -**
+#### **Windows Software -**
 
 1.  **Putty -** ssh tunnelling in windows.
 
@@ -261,7 +261,7 @@
 
 20. **Visual Studio Community Edition -** Best C/C++ ide for MS Windows
 
-**IOS -**
+#### **IOS -**
 
 1.  **Get wifi working in iphones -** Add gdr.local to the search domain of the network connected after adding the proxy.
 
@@ -271,7 +271,7 @@
 
 4.  **Fing -** Scan services on all the devices that are connected to the same network as your phone(iPhone).
 
-**Android applications **
+#### **Android applications **
 
 1.  **OpenVPN Connect -** connect to VPN from your phone
 
@@ -323,7 +323,7 @@
 
 25. **Cleartune** - Painlessly tune your guitar
 
-**Linux Commands -**
+#### **Linux Commands -**
 
 1.  **Ps -el | grep &lt;application name&gt; -** to get the process id of the process.
 
