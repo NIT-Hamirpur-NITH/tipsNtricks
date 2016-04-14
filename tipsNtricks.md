@@ -117,6 +117,8 @@
 
 34. **SecurityKiss.com**
 
+35. **http://www.linuxcommand.org** -This site gets you familiar with linux terminal commands.(Beginners should definitely                                          visit it.)
+
 #### **Single Page Web Application **
 
 1.  [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
