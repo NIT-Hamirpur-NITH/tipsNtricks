@@ -110,6 +110,7 @@
 7.  Pen.io (Write Blog without registration)
 
 8.  Rainy mood -  [*soundrown.com*](https://soundrown.com/) like sites
+                  enjoy youtube videos in rainymood follow the link: http://rainymood.com/howto.html
 
 9.  [*Codeshare*](https://codeshare.io/) - Share live code editor without registration
 
