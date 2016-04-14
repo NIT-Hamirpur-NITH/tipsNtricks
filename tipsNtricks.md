@@ -1,63 +1,37 @@
-#### **Firefox -**
+## Firefox
+1. [**AdBlock**](https://addons.mozilla.org/en-us/firefox/addon/adblock-plus/) - Blocks annoying video ads on YouTube, Facebook ads, banners and much more.
+2. [**FoxyProxy**](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) - Plugin to quickly change the proxy.
+3. [**TabGroups**](https://addons.mozilla.org/en-US/firefox/addon/tab-groups-panorama/) - Plugin to view all opened tabs like in Safari.
+4. [**Disable `Ctrl + Q`**](https://addons.mozilla.org/en-US/firefox/addon/disable-ctrl-q-shortcut/) - disable the shortcut to close all the tabs.
+5. **`Ctrl + Shift + T`** - restore last tab closed.
+6. **`Ctrl + Shift + E`** - group tabs view
+7. [**VideoDownloadHelper**](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/) - Download video files, from any website
+8. [**DownThemAll**](https://addons.mozilla.org/en-US/firefox/addon/downthemall/) - Download manager for firefox
+9. [**Firebug**](https://addons.mozilla.org/en-US/firefox/addon/firebug/) - Development tools for firefox, edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
+10. [**JsonView**](https://addons.mozilla.org/en-us/firefox/addon/jsonview/) - Parses json string into objects and arrays.
+11. [**FireQuery**](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - Firebug plugin for jQuery development
 
-1.  **AdBlock -** Block all the adds on firefox.
+## Chrome
+1. [**Folder upload option**](http://lifehacker.com/5952508/upload-folders-to-google-drive-faster-by-drag-and-dropping-them-into-chrome) - Upload complete forlders by dragging and droping into chrome, not available in firefox
+2. [**Prophet**](https://chrome.google.com/webstore/detail/prophet/alikckkmddkoooodkchoheabgakpopmg?hl=en) - extension to find email ids of people from LinkedIn
+3. [**Postman**](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Make different types of request on URL which are not possible through browser like delete, put, post etc. Must have when you are building an API
+4. [**Proxy switcher**](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm?hl=en) - extension to quickly change the proxy.
+5. [**Save to Pocket**](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) - Save articles directly to Pocket read later service from chrome.
+6. [**Be Limitless**](https://chrome.google.com/webstore/detail/be-limitless/jdpnljppdhjpafeaokemhcggofohekbp?hl=en) - Beautiful dashboard to easily identify where your time is spent and gives productivity.
+7. [**Momentum**](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - Another beautiful dashboard featuring todo, weather, and inspiration
+8. [**Hola Free VPN**](https://chrome.google.com/webstore/detail/unlimited-free-vpn-hola/gkojfkhlekighikafcpjkiklfbnlmeio?hl=en) - Access blocked website, youtube videos.
 
-2.  **FoxyProxy -** Plugin to quickly change the proxy.
+### Common to Both Browsers
+1. **Incognito mode** - Private browsing `Ctrl + Shift + N`(Chrome), `Ctrl + Shift + P`(Firefox)
+2. **Push Bullet** ([*Chrome*](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)) ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/pushbullet/)) - Sync media, messages across multiple devices.
 
-3.  **TabGroups -** Plugin to view all opened tabs like in Safari.
-
-4.  **Disable Ctrl + Q -** disable the shortcut to close all the tabs.
-
-5.  **Ctrl + Shift + T -** restore last tab closed.
-
-6.  **Ctrl + Shift + E** - group tabs view
-
-7.  **VideoDownloadHelper** - Download video files, from any website
-
-8.  **DownThemAll -** Download manager for firefox
-
-9.  **Firebug -** Development tools for firefox, edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
-
-10. **Json parser extension -** Parses json string into objects and arrays.
-
-11. **[*FireQuery*](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - (Works with FireBug)**
-
-12. **Incognito mode -** Ctrl + Shift + N(Chrome),  Ctrl + Shift + P(Firefox)
-
-#### **Chrome - **
-
-1.  **Folder upload option -** Chrome has the option to upload the complete folder. This option is not available in firefox.
-
-2.  **Prophet -** extension to find email ids of people from LinkedIn
-
-3.  **Postman -** Make different types of request on URL which are not possible through browser like delete, put, post etc.
-
-4.  **Proxy switcher -** extension to quickly change the proxy.
-
-5.  **Save to Pocket -** Save articles directly to Pocket read later service from chrome.
-
-6.  **Limitless -** Beautiful dashboard to easily identify where your time is spent and gives productivity.
-7.  **Momentum -** Another beautiful dashboard featuring todo, weather, and inspiration.
-
-#### **Common to Both Browsers **
-
-1.  **Hola Free VPN -** Access blocked website, youtube videos.
-
-2.  **Push Bullet -** Sync media, messages across multiple devices.
-
-3.  **Momentum -** Cool Homepage for chrome with to-do list.
-
-#### **Websites -**
-
-1.  **Dayt.se, couchtuner.ag, shush, kissanime.to -** Get all the tv series and movies in HD.
-
-2.  **StackOverflow, StackExchange, geeksforgeeks **
-
-3.  **Interviewbit.com -** complete this before starting of the final year for excellent placements.
-
-4.  **Bitport.io -** 2GB of torrent direct download
-
-5.  **Appxv.com -** get free paid apps for Android
+## Websites
+1. [**Dayt.se**](http://dayt.se/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/) - Get all the tv series and movies in HD.
+2. [**StackOverflow**](http://stackoverflow.com/), [**StackExchange**](http://stackexchange.com/) - Best QA sites
+3. [**GeeksforGeeks**](http://www.geeksforgeeks.org/) - Learn algorithms and data structures
+4. [**InterviewBit**](https://www.interviewbit.com/) - For programming interview preparation. ***Complete this before starting of the final year for excellent placements***
+5. [**Bitport.io**](https://bitport.io/), [**Seedr.cc**](https://www.seedr.cc/) - 2GB of torrent direct download
+6. [**Appxv**](https://appxv.com/) - get free paid apps for Android
 
 6.  **blackboxrepack.com** - Download games in one click
 
