@@ -4,7 +4,8 @@ This repository contains the list of all the useful software, tools, application
 
 **Want to contribute**
 
-We would be happy to see your contribution to the list. The steps for contribution are
+We would be happy to see your contribution to the list. The steps for contribution are:
+
 1. Fork the repository (by clicking the fork button above)
 2. Clone the repository to your system using the link that is generated after forking.
 3. Make those awesome changes. Commit them.
@@ -14,6 +15,7 @@ We would be happy to see your contribution to the list. The steps for contributi
 **What to contribute**
 
 Well the list of things that you can contribute are as follows:
+
 1. Improve this README. Maybe add items here.
 2. Add description about itmes mentioned on the list. Preferably provide a download link..
 3. Add a link on tutorial on how to make the software work.
@@ -26,12 +28,14 @@ Well the list of things that you can contribute are as follows:
 10. Add a list related to simple hacking.
 
 **Guidelines for contribution**
+
 1. Please add a "credits - [your_nick](link_to_your_profile)".(We might decide to remove this if this is crowding the list)
 2. This is a public list so please contribute stuff that is useful for the community.
 3. There should be no vulgar content in the contributions.
 4. The softwares that you add should be the once that are useful in a frequent pattern or are really cool!
 
 **Declaration**
+
 This list is just to help to know which tools exist. We in no way promote/demote any software or application. We do not encourage piracy in any way and request all the users to buy only the legal stuff.
 Any software that you try from the above list is at your own risk. We do not hold any responsiblity for the softwares you use.
  
