@@ -16,52 +16,44 @@
 
 8.  **DownThemAll -** Download manager for firefox
 
-9.  **Firebug -** Development tools for firefox, edit, debug, and
-    > monitor CSS, HTML, and JavaScript live in any web page
+9.  **Firebug -** Development tools for firefox, edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
 
-10. **Json parser extension -** Parses json string into objects
-    > and arrays.
+10. **Json parser extension -** Parses json string into objects and arrays.
 
-11. **[*FireQuery*](https://addons.mozilla.org/en-us/firefox/addon/firequery/)
-    > (Works with FireBug)**
+11. **[*FireQuery*](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - (Works with FireBug)**
 
-12. **Incognito mode -** Ctrl + Shift + N(Chrome), Ctrl + Shift +
-    > P(Firefox)
+12. **Incognito mode -** Ctrl + Shift + N(Chrome),  Ctrl + Shift + P(Firefox)
 
 **Chrome - **
 
-1.  **Folder upload option -** Chrome has the option to upload the
-    > complete folder. This option is not available in firefox.
+1.  **Folder upload option -** Chrome has the option to upload the complete folder. This option is not available in firefox.
 
 2.  **Prophet -** extension to find email ids of people from LinkedIn
 
-3.  **Postman -** Make different types of request on URL which are not
-    > possible through browser like delete, put, post etc.
+3.  **Postman -** Make different types of request on URL which are not possible through browser like delete, put, post etc.
 
 4.  **Proxy switcher -** extension to quickly change the proxy.
 
-5.  **Save to Pocket -** Save articles directly to Pocket read later
-    > service from chrome
+5.  **Save to Pocket -** Save articles directly to Pocket read later service from chrome.
 
-6.  **Limitless**
+6.  **Limitless -** Beautiful dashboard to easily identify where your time is spent and gives productivity.
+7.  **Momentum -** Another beautiful dashboard featuring todo, weather, and inspiration.
 
 **Common to Both Browsers **
 
 1.  **Hola Free VPN -** Access blocked website, youtube videos.
 
-2.  **Push Bullet -** Sync media, messages across multiple devices
+2.  **Push Bullet -** Sync media, messages across multiple devices.
 
-3.  **Momentum -** Cool Homepage for chrome with to-do list
+3.  **Momentum -** Cool Homepage for chrome with to-do list.
 
 **Websites -**
 
-1.  **Dayt.se, couchtuner.ag, shush, kissanime.to -** Get all the tv
-    > series and movies in HD
+1.  **Dayt.se, couchtuner.ag, shush, kissanime.to -** Get all the tv series and movies in HD.
 
 2.  **StackOverflow, StackExchange, geeksforgeeks **
 
-3.  **Interviewbit.com -** complete this before starting of the final
-    > year for excellent placements.
+3.  **Interviewbit.com -** complete this before starting of the final year for excellent placements.
 
 4.  **Bitport.io -** 2GB of torrent direct download
 
@@ -69,37 +61,31 @@
 
 6.  **blackboxrepack.com** - Download games in one click
 
-7.  [*https://it-ebooks.info/-*](https://it-ebooks.info/-) Download free
-    > ebooks
+7.  [*https://it-ebooks.info/-*](https://it-ebooks.info/-) Download free ebooks.
 
 8.  **Filehippo.com -** Get all software for free.
 
 9.  **Slack -** Group chat for projects
 
-10. **Quora, Reddit -** sites to read interesting content and get your
-    > queries answered.
+10. **Quora, Reddit -** sites to read interesting content and get your queries answered.
 
-11. **Search for “index of serial” on Google -** you would get one click
-    > download option in the results.
+11. **Search for “index of serial” on Google -** you would get one click download option in the results.
 
 12. **Ideone -** online code editor.
 
-13. **Oduso -** install multiple application in one go, using scripts
-    > made by this site
+13. **Oduso -** install multiple application in one go, using scripts made by this site.
 
-14. **Tlk.io -** site to create a chat room and chat anonymously or
-    > sign-in
+14. **Tlk.io -** site to create a chat room and chat anonymously or sign-in.
 
-15. **IRC -** chat site for professionals
+15. **IRC -** chat site for professionals.
 
-16. **Pushbullet -** cross platform notification sharing app
+16. **Pushbullet -** cross platform notification sharing
 
 17. **Github student’s account, gist, bitbucket**
 
 18. **Weiyun, Dropbox, MegaShare, GooglePhotos -** 1 TB cloud storage
 
-19. **Urbandictionary -** get the meaning of each and every
-    > slang/shortform used today.
+19. **Urbandictionary -** get the meaning of each and every slang/shortform used today.
 
 20. **Xdadevelopers.com -** everything related to android.
 
@@ -107,11 +93,9 @@
 
 22. **Koding.com**
 
-23. **Stumbleupon -** explore web new pages based on likes and dislikes
-    > and save pages.
+23. **Stumbleupon -** explore web new pages based on likes and dislikes and save pages.
 
-24. **Google forms -** create simple and user friendly forms for
-    > submission of entries.
+24. **Google forms -** create simple and user friendly forms for submission of entries.
 
 25. **Feedly -** RSS feed aggregator
 
@@ -119,17 +103,15 @@
 
 27. **Pininterest**
 
-28. **Tripoto -** Trip experience sharing site **(TripLived
-    > android app)**
+28. **Tripoto -** Trip experience sharing site **(TripLived android app)**
 
 29. **Music.cliggo.com -** Provides music from youtube (app also)
 
 30. **Requestmaker.com -** like postman but online.
 
-31. *www.codinghorror.com* - Blog of stackoverflow co founder Jeff
+31. **www.codinghorror.com -** Blog of stackoverflow co founder Jeff
 
-32. [*https://bento.io/*](https://bento.io/) - Shows you the links and
-    > paths of various tools and languages.
+32. [*https://bento.io/*](https://bento.io/) - Shows you the links and paths of various tools and languages.
 
 33. **Watch video in youtube without login:** nsfwyoutube.com/link
 
@@ -151,10 +133,9 @@
 
 7.  Pen.io (Write Blog without registration)
 
-8.  Rainy mood
+8.  Rainy mood -  [*soundrown.com*](https://soundrown.com/) like sites
 
-9.  [*Codeshare*](https://codeshare.io/) - Share live code editor
-    > without registration
+9.  [*Codeshare*](https://codeshare.io/) - Share live code editor without registration
 
 **Linux Software -**
 
@@ -196,8 +177,7 @@
 
 19. **Synaptic package manager**
 
-20. **Synapse Launcher -** keystroke launcher, open applications, files
-    > using just keyboard
+20. **Synapse Launcher -** keystroke launcher, open applications, files using just keyboard
 
 21. **Zsh -** an alternative to bash, but much better
 
@@ -207,8 +187,7 @@
 
 24. **Byobu / tmux -** Terminal multiplexers
 
-25. **Gparted -** Partition editor for graphically managing your disk
-    > partition
+25. **Gparted -** Partition editor for graphically managing your disk partition
 
 26. **Unetbootin, YUMI -** Live USB creator
 
@@ -216,17 +195,15 @@
 
 28. **Samba -** sharing files/folder in linux
 
-29. **Variety -** automatically change wallpapers for linux. The source
-    > of wallpapers can be customized.
+29. **Variety -** automatically change wallpapers for linux. The source of wallpapers can be customized.
 
 30. **Crontab:** Scheduling events
 
-31. **Apptik -** A Tool to Backup/Restore Your Favourite PPAs and Apps
-    > in Ubuntu
+31. **Apptik -** A Tool to Backup/Restore Your Favourite PPAs and Apps in Ubuntu
 
-32. **TestDisk**: Data Recovery
+32. **TestDisk** Data Recovery
 
-33. **SOFTWARE FOR RECOVERY OF DATA - BATAO KOI**
+33. **Software For Recovery of data -** Grsync, pybackup
 
 34. **KODI **
 
@@ -239,6 +216,8 @@
 38. Ambiance - rainy mood alternative for desktop
 
 39. Screen - used on a remote server to create multiple terminals
+
+40. **Easy Stroke Gesture recorder-**  control your desktop using mouse gestures
 
 **Windows Software -**
 
@@ -276,8 +255,7 @@
 
 17. **Netscan -** easily detect which systems on LAN are open.
 
-18. **Ease US partiion manager and recovery -** recovers partition and
-    > changes the partition length.
+18. **Ease US partiion manager and recovery -** recovers partition and changes the partition length.
 
 19. **Format Factory -** convert any format to any format
 
@@ -285,15 +263,13 @@
 
 **IOS -**
 
-1.  **Get wifi working in iphones -** Add gdr.local to the search domain
-    > of the network connected after adding the proxy.
+1.  **Get wifi working in iphones -** Add gdr.local to the search domain of the network connected after adding the proxy.
 
 2.  **Alienblue -** reddit app
 
 3.  **iMusic -** Automatically saves youtube video once played.
 
-4.  **Fing -** Scan services on all the devices that are connected to
-    > the same network as your phone(iPhone).
+4.  **Fing -** Scan services on all the devices that are connected to the same network as your phone(iPhone).
 
 **Android applications **
 
@@ -307,11 +283,9 @@
 
 5.  **Evernote -** Write, manage and sync notes
 
-6.  **Hooks -** Notification alerts for various events like sports,
-    > youtube, tv shows, earthquakes, scores etc.
+6.  **Hooks -** Notification alerts for various events like sports, youtube, tv shows, earthquakes, scores etc.
 
-7.  **If -** automation app. Defining events which trigger different
-    > events like when add a contact save it to google spreadsheet.
+7.  **If -** automation app. Defining events which trigger different events like when add a contact save it to google spreadsheet.
 
 8.  **Moneyview **
 
@@ -351,11 +325,9 @@
 
 **Linux Commands -**
 
-1.  **Ps -el | grep &lt;application name&gt; -** to get the process id
-    > of the process.
+1.  **Ps -el | grep &lt;application name&gt; -** to get the process id of the process.
 
-2.  **Kill -9 pid -** to kill the process whose pid can be obtained from
-    > the previous command.
+2.  **Kill -9 pid -** to kill the process whose pid can be obtained from the previous command.
 
 3.  **Killall &lt;process\_name&gt;** - to kill all the running process
 
@@ -377,20 +349,15 @@
 
 12. **Set brightness **
 
-13. **Save a lot of battery -** Go to Software and Updates -&gt;
-    > Additional drivers and install latest stable proprietary release
-    > for nVIDIA or ATI
+13. **Save a lot of battery -** Go to Software and Updates -&gt; Additional Drivers and install latest stable proprietary release for nVIDIA or ATI
 
-14. **Gnome-screenshot, shutter -** Take screenshot easily and with a
-    > lot of customization
+14. **Gnome-screenshot, shutter -** Take screenshot easily and with a lot of customization
 
 15. **Ctrl+Prt Sc:** Screenshot without confirmation
 
-16. **Alt+Prt Sc -&gt; Click on any window -&gt; Release Alt:**
-    > Screenshot of only that window
+16. **Alt+Prt Sc -&gt; Click on any window -&gt; Release Alt:** Screenshot of only that window
 
-17. **Shift+Prt Sc -&gt; Select an area -&gt;Release Shift:** Screenshot
-    > of only that selected area
+17. **Shift+Prt Sc -&gt; Select an area -&gt;Release Shift:** Screenshot of only that selected area
 
 18. **Add alias for running softwares**
 
@@ -402,4 +369,4 @@
 
 22. **Middle click -** shortcut to paste the current selected text.
 
-23. **Cd -** - to get back to previous directory.
+23. **Cd --** to get back to previous directory.
