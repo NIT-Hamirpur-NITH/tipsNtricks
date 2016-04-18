@@ -238,9 +238,9 @@
 
 20. **Visual Studio Community Edition -** Best C/C++ ide for MS Windows
 
-21. **Everything -** Super fast Desktop search engine
+21. [**Everything**](https://www.voidtools.com/) - Super fast Desktop search engine
 
-22. **Team Viewer -** Desktop sharing application
+22. [**Team Viewer**](www.teamviewer.com/) - Desktop sharing application
 
 #### **IOS -**
 
