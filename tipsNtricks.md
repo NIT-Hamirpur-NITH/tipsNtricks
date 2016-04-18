@@ -240,7 +240,7 @@
 
 21. [**Everything**](https://www.voidtools.com/) - Super fast Desktop search engine
 
-22. [**Team Viewer**](www.teamviewer.com/) - Desktop sharing application
+22. [**Team Viewer**](https://www.teamviewer.com/) - Desktop sharing application
 
 #### **IOS -**
 
