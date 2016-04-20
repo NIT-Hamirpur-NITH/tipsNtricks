@@ -110,7 +110,14 @@
 7.  Pen.io (Write Blog without registration)
 
 8.  Rainy mood -  [*soundrown.com*](https://soundrown.com/) like sites
-                  enjoy youtube videos in rainymood follow the link: http://rainymood.com/howto.html
+                  Listen any youtube video in rainymood:
+                                                    1.just open the video on youtube
+                                                    2.Replace the www.youtube.com/... link as www.rainymood.com/...
+                                                    3.e.g.:
+                                                            Your youtube video: https://www.youtube.com/watch?v=NTHz9ephYTw
+                                                            Change it to      : https://www.rainymood.com/watch?v=NTHz9ephYTw 
+                                                            and here you go!!
+                                                    4.For more information visit : (http://rainymood.com/howto.html)
 
 9.  [*Codeshare*](https://codeshare.io/) - Share live code editor without registration
 
