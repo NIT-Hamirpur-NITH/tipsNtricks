@@ -175,6 +175,10 @@
 23. **Psiphon** - Painless VPN client
 24. **Forkhub** - Your git repos on your phone
 25. **Cleartune** - Painlessly tune your guitar
+26. **Termux** - Terminal emulator and Linux environment for Android
+27. **LIfe360** - Locate your family and friends using GPS
+28. **AdAway** - Block most of Ads on your phone
+29. **SplitWise** - Split bills and expenses with friends
 
 ## Linux commands and shortcuts
 1. **ps -el | grep &lt;application name&gt;** - to get the process id of the process.
