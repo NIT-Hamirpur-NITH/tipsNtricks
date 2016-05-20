@@ -63,6 +63,10 @@
 34. **SecurityKiss.com**
 35. **http://www.linuxcommand.org** -This site gets you familiar with linux terminal commands.(Beginners should definitely visit this.)
 36. **blackboxrepack.com** - Download games in one click
+37. [**kumpulbagi.id**](http://kumpulbagi.id/)- Download music,movies,games.
+38. [**8tracks.com**](http://8tracks.com/)- Make and discover playlists.
+39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
+40. [**codepen.io**](http://codepen.io/)- Edit HTML,CSS,JS online. Playground for front end web development.
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
