@@ -208,3 +208,13 @@
 21. **Nbtscan** - network discovery in linux
 22. **Middle click** - shortcut to paste the current selected text.
 23. **cd --** - to get back to previous directory.
+
+##Mac OS X softwares and Utilities
+1. [**double Twist**](https://www.doubletwist.com/desktop/)- Bidirectional app for syncing media from Android to Mac.
+2. [**Spectacle**](https://www.spectacleapp.com)- Open source solution for moving and resizing windows with keyboard shortcuts.
+3. [**Tomighty**](http://www.tomighty.org)- A free and open source desktop timer for the Pomodoro Technique available for both mac and windows
+4. [**Transmission**](http://www.transmissionbt.com)- A fast,easy,and free bit torrent client.
+5. [**Unarchiver**](http://wakaba.c3.cx/s/apps/unarchiver.html)- Compress/Uncompress apps. Supported file formats-  Zip, Tar-GZip, Tar-BZip2, RAR, 7-zip, LhA, StuffIt and many other old and obscure formats.
+6. [**Asepsis**](http://asepsis.binaryage.com)- get rid of annoying DS_store files. Prevent them from being created anywhere in the system.
+7. [**Cheatsheet**](https://www.grandtotal.biz/CheatSheet/)- Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application.
+8. [**iTerm2**](https://www.iterm2.com/)- Replacement for Mac OS terminal with functionality similar to Guake and Terminator.
