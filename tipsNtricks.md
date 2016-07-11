@@ -33,13 +33,13 @@
 4. [**InterviewBit**](https://www.interviewbit.com/) - For programming interview preparation. ***Complete this before starting of the final year for excellent placements***
 5. [**Bitport.io**](https://bitport.io/), [**Seedr.cc**](https://www.seedr.cc/) - 2GB of torrent direct download
 6. [**Appxv**](https://appxv.com/) - get free paid apps for Android
-7.  [*https://it-ebooks.info/-*](https://it-ebooks.info/-) Download free ebooks.
+7.  [**https://it-ebooks.info/-**](https://it-ebooks.info/-) Download free ebooks.
 8. **Filehippo.com** - Get all software for free.
 9. **Slack** - Group chat for projects
 10. **Quora, Reddit** - sites to read interesting content and get your queries answered.
 11. **Search for “index of serial” on Google** - you would get one click download option in the results.
 12. **Ideone** - online code editor.
-13. **Oduso** - install multiple application in one go, using scripts made by this site.
+13. [**Oduso**](https://oduso.com/) - install multiple application in one go, using scripts made by this site.
 14. **Tlk.io** - site to create a chat room and chat anonymously or sign-in.
 15. **IRC** - chat site for professionals.
 16. **Pushbullet** - cross platform notification sharing
