@@ -40,3 +40,6 @@ Well the list of things that you can contribute are as follows:
 This list is just to help to know which tools exist. We in no way promote/demote any software or application. We do not encourage piracy in any way and request all the users to buy only the legal stuff.
 Any software that you try from the above list is at your own risk. We do not hold any responsiblity for the softwares you use.
  
+
+
+[![Join the chat at https://gitter.im/Nithmr/tipsNtricks](https://badges.gitter.im/Nithmr/tipsNtricks.svg)](https://gitter.im/Nithmr/tipsNtricks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
