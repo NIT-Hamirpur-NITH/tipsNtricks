@@ -102,11 +102,12 @@
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
 40. [**codepen.io**](http://codepen.io/)- Edit HTML,CSS,JS online. Playground for front end web development.
 41. [**bugmenot**](http://bugmenot.com/)- Access and share logins for websites that require you to register in order to view content.
+42. [**Zeta Uploader**](https://www.zeta-uploader.com/)- Zeta Uploader is a service of the Zeta Software GmbH for electronic data exchange.
 
 <br>
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
-2. gluPaste (glug nith paste bin )
+2. [*gluPaste*](http://glug.nith.ac.in:5000/)(glug nith paste bin )
 3. [*VolaFile*](https://volafile.io/) (Live File Sharing and chat)
 4. [*http://www.koding.com/*](http://www.koding.com/)
 5. [*Talky*](https://talky.io/) (Google Hangout without registration)
