@@ -1,17 +1,49 @@
-## Firefox
-1. [**AdBlock**](https://addons.mozilla.org/en-us/firefox/addon/adblock-plus/) - Blocks annoying video ads on YouTube, Facebook ads, banners and much more.
-2. [**FoxyProxy**](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) - Plugin to quickly change the proxy.
+### Contents
+
+- [Firefox](#firefox)
+  - [Developer tools](#developer-tools)
+  - [Download tools](#download-tools)
+  - [Accessibility](#accessibility)
+  - [Misc](#misc)
+- [Chrome](#chrome)
+- [Websites](#websites)
+  - [Free Music, T.V series, Movies download](#)
+  - [Practise programming](#)
+  - [Interview preparation](#)
+  - [Misc](#)
+- [Linux Software and Utilities](#linux-software-and-utilities)
+- [Windows Software and utilites](#windows-software-and-utilities)
+- [IOS](#ios)
+- [Android](#android)
+- [Linux commands and shortcuts](#linux-commands-and-shortcuts)
+- [Mac OSX software and Utilities](#mac-osx-software-and-utilities)
+
+<br/>
+## Firefox 
+#####Developer Tools
+9. [**Firebug**](https://addons.mozilla.org/en-US/firefox/addon/firebug/) - Development tools for firefox, edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
+10. [**JsonView**](https://addons.mozilla.org/en-us/firefox/addon/jsonview/) - Parses json string into objects and arrays.
+11. [**FireQuery**](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - Firebug plugin for jQuery development
+  
+===
+#####Download Tools
+7. [**VideoDownloadHelper**](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/) - Download video files, from any website
+8. [**DownThemAll**](https://addons.mozilla.org/en-US/firefox/addon/downthemall/) - Download manager for firefox
+  
+===
+#####Accessibility
 3. [**TabGroups**](https://addons.mozilla.org/en-US/firefox/addon/tab-groups-panorama/) - Plugin to view all opened tabs like in Safari.
 4. [**Disable `Ctrl + Q`**](https://addons.mozilla.org/en-US/firefox/addon/disable-ctrl-q-shortcut/) - disable the shortcut to close all the tabs.
 5. **`Ctrl + Shift + T`** - restore last tab closed.
 6. **`Ctrl + Shift + E`** - group tabs view
-7. [**VideoDownloadHelper**](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/) - Download video files, from any website
-8. [**DownThemAll**](https://addons.mozilla.org/en-US/firefox/addon/downthemall/) - Download manager for firefox
-9. [**Firebug**](https://addons.mozilla.org/en-US/firefox/addon/firebug/) - Development tools for firefox, edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
-10. [**JsonView**](https://addons.mozilla.org/en-us/firefox/addon/jsonview/) - Parses json string into objects and arrays.
-11. [**FireQuery**](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - Firebug plugin for jQuery development
 12. [**Hide Caption Titlebar Plus**](https://addons.mozilla.org/en-US/firefox/addon/hide-caption-titlebar-plus-sma/) - Hide titlebar in firefox. Maximize your screen space by adjusting Firefox window TitleBar, borders, Tabs, Toolbars, etc!
+  
+===
+##### Misc
+2. [**FoxyProxy**](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) - Plugin to quickly change the proxy.
+1. [**AdBlock**](https://addons.mozilla.org/en-us/firefox/addon/adblock-plus/) - Blocks annoying video ads on YouTube, Facebook ads, banners and much more.
 
+<br>
 ## Chrome
 1. [**Folder upload option**](http://lifehacker.com/5952508/upload-folders-to-google-drive-faster-by-drag-and-dropping-them-into-chrome) - Upload complete forlders by dragging and droping into chrome, not available in firefox
 2. [**Prophet**](https://chrome.google.com/webstore/detail/prophet/alikckkmddkoooodkchoheabgakpopmg?hl=en) - extension to find email ids of people from LinkedIn
@@ -22,10 +54,12 @@
 7. [**Momentum**](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - Another beautiful dashboard featuring todo, weather, and inspiration
 8. [**Hola Free VPN**](https://chrome.google.com/webstore/detail/unlimited-free-vpn-hola/gkojfkhlekighikafcpjkiklfbnlmeio?hl=en) - Access blocked website, youtube videos.
 
+<br>
 ### Common to Both Browsers
 1. **Incognito mode** - Private browsing `Ctrl + Shift + N`(Chrome), `Ctrl + Shift + P`(Firefox)
 2. **Push Bullet** ([*Chrome*](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)) ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/pushbullet/)) - Sync media, messages across multiple devices.
 
+<br>
 ## Websites
 1. [**Cyro.se**](http://cyro.se/), [**khatrimaza**](http://khatrimaza.org/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/) - Get all the tv series and movies in HD.
 2. [**StackOverflow**](http://stackoverflow.com/), [**StackExchange**](http://stackexchange.com/) - Best QA sites
@@ -69,6 +103,7 @@
 40. [**codepen.io**](http://codepen.io/)- Edit HTML,CSS,JS online. Playground for front end web development.
 41. [**bugmenot**](http://bugmenot.com/)- Access and share logins for websites that require you to register in order to view content.
 
+<br>
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
 2. gluPaste (glug nith paste bin )
@@ -84,6 +119,7 @@
     4. 4.For more information visit : (http://rainymood.com/howto.html)
     9.  [*Codeshare*](https://codeshare.io/) - Share live code editor without registration
 
+<br>
 ## Linux Software and Utilities
 1. **Guake** - Drop down terminal
 2. **Pidgin** - Chat client
@@ -124,7 +160,8 @@
 40. **Easy Stroke Gesture recorder** -  control your desktop using mouse gestures
 41. [__fzf__](https://github.com/junegunn/fzf) - a genral purpose command line fuzzy finder, install it nd press `Ctrl + R` or `Ctrl + T` or `ALT + C` in terminal to see the magic.
 
-## Windows softwares and unilities
+<br>
+## Windows software and utilities
 1. **Putty** - ssh tunnelling in windows.
 2. **Rainmeter** - cool themes for windows
 3. **Cygwin** - Linux like environment for windows
@@ -148,13 +185,15 @@
 21. [**Everything**](https://www.voidtools.com/) - Super fast Desktop search engine
 22. [**Team Viewer**](https://www.teamviewer.com/) - Desktop sharing application
 
-## IOS
+<br>
+## IOS 
 1. **Get wifi working in iphones** - Add gdr.local to the search domain of the network connected after adding the proxy.
 2. **Alienblue** - reddit app
 3. **iMusic** - Automatically saves youtube video once played.
 4. **Fing** - Scan services n all the devices that are connected to the same network as your phone(iPhone).
 
-## Android applications
+<br>
+## Android 
 1. **OpenVPN Connect** - connect to VPN from your phone
 2. **CamScanner** - Take photos of documents and save them as pdfs
 3. **Wunderlist, Any.do** - Managing todo lists.
@@ -185,6 +224,7 @@
 28. **AdAway** - Block most of Ads on your phone
 29. **SplitWise** - Split bills and expenses with friends
 
+<br>
 ## Linux commands and shortcuts
 1. **ps -el | grep &lt;application name&gt;** - to get the process id of the process.
 2. **Kill -9 pid** - to kill the process whose pid can be obtained from the previous command.
@@ -210,7 +250,8 @@
 22. **Middle click** - shortcut to paste the current selected text.
 23. **cd --** - to get back to previous directory.
 
-##Mac OS X softwares and Utilities
+<br>
+##Mac OSX Software and Utilities
 1. [**double Twist**](https://www.doubletwist.com/desktop/)- Bidirectional app for syncing media from Android to Mac.
 2. [**Spectacle**](https://www.spectacleapp.com)- Open source solution for moving and resizing windows with keyboard shortcuts.
 3. [**Tomighty**](http://www.tomighty.org)- A free and open source desktop timer for the Pomodoro Technique available for both mac and windows
@@ -219,3 +260,5 @@
 6. [**Asepsis**](http://asepsis.binaryage.com)- get rid of annoying DS_store files. Prevent them from being created anywhere in the system.
 7. [**Cheatsheet**](https://www.grandtotal.biz/CheatSheet/)- Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application.
 8. [**iTerm2**](https://www.iterm2.com/)- Replacement for Mac OS terminal with functionality similar to Guake and Terminator.
+
+<br>
