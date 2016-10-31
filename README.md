@@ -230,4 +230,12 @@
 6. [**Asepsis**](http://asepsis.binaryage.com)- get rid of annoying DS_store files. Prevent them from being created anywhere in the system.
 7. [**Cheatsheet**](https://www.grandtotal.biz/CheatSheet/)- Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application.
 8. [**iTerm2**](https://www.iterm2.com/)- Replacement for Mac OS terminal with functionality similar to Guake and Terminator.
-
+9. [**Spectacle**](https://www.spectacleapp.com/) - Move and resize windows with ease.
+10. [**Sequel Pro**](https://www.sequelpro.com/) -Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
+11. [**Shady**](http://instinctivecode.com/shady/) - Shady puts a shade over your screen to help soothe your tired or dazzled eyes
+12. [**Cakebrew**](https://www.cakebrew.com/) - The Homebrew GUI App
+13. [**Dash**](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
+14. [**GitHub Desktop**](https://desktop.github.com/) - A GUI for using GitHub.
+15. [**Sublime Text 3**](http://www.sublimetext.com/) - The sophisticated text editor.
+16. [**Alfred**](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
+17. [**Clip Menu**](http://<www class="clipm"></www>enu.com/) - ClipBoard History Manager.
