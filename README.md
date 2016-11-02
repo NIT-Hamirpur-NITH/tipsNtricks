@@ -79,21 +79,21 @@
 38. [**8tracks.com**](http://8tracks.com/)- Make and discover playlists.
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
 40. [**codepen.io**](http://codepen.io/)- Edit HTML,CSS,JS online. Playground for front end web development.
+41. [**Zeta Uploader**](https://www.zeta-uploader.com/)- Zeta Uploader is used to send large files to any email address without any login/signup and you can protect your uploaded or sent data by password. For more detail visit Zeta Upolader site. 
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
-2. gluPaste (glug nith paste bin )
-3. [*VolaFile*](https://volafile.io/) (Live File Sharing and chat)
-4. [*http://www.koding.com/*](http://www.koding.com/)
-5. [*Talky*](https://talky.io/) (Google Hangout without registration)
-6. Flask.io (To do list without registration)
-7. Pen.io (Write Blog without registration)
-8. Rainy mood -  [*soundrown.com*](https://soundrown.com/) like sites. Listen any youtube video in rainymood:
+2. [*VolaFile*](https://volafile.io/) (Live File Sharing and chat)
+3. [*http://www.koding.com/*](http://www.koding.com/)
+4. [*Talky*](https://talky.io/) (Google Hangout without registration)
+5. Flask.io (To do list without registration)
+6. Pen.io (Write Blog without registration)
+7. Rainy mood -  [*soundrown.com*](https://soundrown.com/) like sites. Listen any youtube video in rainymood:
     1. just open the video on youtube
     2. Replace the www.youtube.com/... link as www.rainymood.com/...
     3. e.g.: Your youtubevideo: https://www.youtube.com/watch?v=NTHz9ephYTw.Change it to: https://www.rainymood.com/watch?v=NTHz9ephYTw and here you go!!
-    4. 4.For more information visit : (http://rainymood.com/howto.html)
-    9.  [*Codeshare*](https://codeshare.io/) - Share live code editor without registration
+    4. For more information visit : (http://rainymood.com/howto.html)
+    5.  [*Codeshare*](https://codeshare.io/) - Share live code editor without registration
 
 ## Linux Software and Utilities
 1. **Guake** - Drop down terminal
