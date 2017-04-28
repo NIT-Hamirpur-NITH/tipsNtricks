@@ -23,7 +23,7 @@
 10. [**JsonView**](https://addons.mozilla.org/en-us/firefox/addon/jsonview/) - Parses json string into objects and arrays.
 11. [**FireQuery**](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - Firebug plugin for jQuery development
 12. [**Hide Caption Titlebar Plus**](https://addons.mozilla.org/en-US/firefox/addon/hide-caption-titlebar-plus-sma/) - Hide titlebar in firefox. Maximize your screen space by adjusting Firefox window TitleBar, borders, Tabs, Toolbars, etc!
-13. [**Web Messenger for whatsapp"](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-web-messenger/) - good firefox extension to see whatsapp messages on firefox browser.
+13. [**Web Messenger for whatsapp**](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-web-messenger/) - good firefox extension to see whatsapp messages on firefox browser.
 
 ## Chrome
 1. [**Folder upload option**](http://lifehacker.com/5952508/upload-folders-to-google-drive-faster-by-drag-and-dropping-them-into-chrome) - Upload complete forlders by dragging and droping into chrome, not available in firefox
