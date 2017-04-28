@@ -135,8 +135,8 @@
 39. Screen - used on a remote server to create multiple terminals
 40. **Easy Stroke Gesture recorder** -  control your desktop using mouse gestures
 41. [__fzf__](https://github.com/junegunn/fzf) - a genral purpose command line fuzzy finder, install it nd press `Ctrl + R` or `Ctrl + T` or `ALT + C` in terminal to see the magic.
-42.[**Team Viewer**]-(https://www.teamviewer.com/) A desktop client to share your computer's screen to other computers. Also with teamviewer mobile app you can control your computers screen with your mobile.
-43.**Screen**-To make a terminal projected on other's computer. So that both can work on the same terminal.
+42. [**Team Viewer**]-(https://www.teamviewer.com/) A desktop client to share your computer's screen to other computers. Also with teamviewer mobile app you can control your computers screen with your mobile.
+43. **Screen**-To make a terminal projected on other's computer. So that both can work on the same terminal.
 
 ## Windows softwares and unilities
 1. **Putty** - ssh tunnelling in windows.
