@@ -1,4 +1,4 @@
-> A curated list of softawres, browser plugins, tools, tips and websites made by and for the student of NITH and maintained by the same.
+> A curated list of softwares, browser plugins, tools, tips and websites made by and for the student of NITH and maintained by the same.
 
 ## Contents
 - [Firefox](#firefox)
@@ -80,6 +80,7 @@
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
 40. [**codepen.io**](http://codepen.io/)- Edit HTML,CSS,JS online. Playground for front end web development.
 41. [**Zeta Uploader**](https://www.zeta-uploader.com/)- Zeta Uploader is used to send large files to any email address without any login/signup and you can protect your uploaded or sent data by password. For more detail visit Zeta Upolader site. 
+42. [**ThePirateBay**](https://thepiratebay-proxylist.org/)- To get anything from applications,games to movies and TV shows.
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
