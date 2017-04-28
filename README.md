@@ -80,6 +80,7 @@
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
 40. [**codepen.io**](http://codepen.io/)- Edit HTML,CSS,JS online. Playground for front end web development.
 41. [**Zeta Uploader**](https://www.zeta-uploader.com/)- Zeta Uploader is used to send large files to any email address without any login/signup and you can protect your uploaded or sent data by password. For more detail visit Zeta Upolader site. 
+42. [**web.whatsapp.com**](https://www.whatsapp.com)- To connect whatsapp in mobile with computer. Also shows a pop-up notification whenever a message is recieved.
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
@@ -134,6 +135,8 @@
 39. Screen - used on a remote server to create multiple terminals
 40. **Easy Stroke Gesture recorder** -  control your desktop using mouse gestures
 41. [__fzf__](https://github.com/junegunn/fzf) - a genral purpose command line fuzzy finder, install it nd press `Ctrl + R` or `Ctrl + T` or `ALT + C` in terminal to see the magic.
+42.[**Team Viewer**]-(https://www.teamviewer.com/) A desktop client to share your computer's screen to other computers. Also with teamviewer mobile app you can control your computers screen with your mobile.
+43.**Screen**-To make a terminal projected on other's computer. So that both can work on the same terminal.
 
 ## Windows softwares and unilities
 1. **Putty** - ssh tunnelling in windows.
@@ -195,6 +198,7 @@
 27. **LIfe360** - Locate your family and friends using GPS
 28. **AdAway** - Block most of Ads on your phone
 29. **SplitWise** - Split bills and expenses with friends
+30. **TeamViewer**-To control your computer screen with your mobile
 
 ## Linux commands and shortcuts
 1. **ps -el | grep &lt;application name&gt;** - to get the process id of the process.
