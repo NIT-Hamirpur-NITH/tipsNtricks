@@ -36,7 +36,7 @@
 
 ### Common to Both Browsers
 1. **Incognito mode** - Private browsing `Ctrl + Shift + N`(Chrome), `Ctrl + Shift + P`(Firefox)
-2. **Push Bullet** ([*Chrome*](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)) ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/pushbullet/)) - Sync media, messages across multiple devices.
+2. **Push Bullet** ([*Chrome*](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)) ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/pushbullet/)) ([*Android*](https://play.google.com/store/apps/details?id=com.pushbullet.android&hl=en))- Sync media, messages across multiple devices.
 
 ## Websites
 1. [**Dayt.se**](http://dayt.se/), [**khatrimaza**](http://khatrimaza.org/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/) - Get all the tv series and movies in HD.
@@ -135,7 +135,7 @@
 40. **Easy Stroke Gesture recorder** -  control your desktop using mouse gestures
 41. [__fzf__](https://github.com/junegunn/fzf) - a genral purpose command line fuzzy finder, install it nd press `Ctrl + R` or `Ctrl + T` or `ALT + C` in terminal to see the magic.
 
-## Windows softwares and unilities
+## Windows softwares and Utilities
 1. **Putty** - ssh tunnelling in windows.
 2. **Rainmeter** - cool themes for windows
 3. **Cygwin** - Linux like environment for windows
