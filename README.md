@@ -39,7 +39,7 @@
 2. **Push Bullet** ([*Chrome*](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)) ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/pushbullet/)) ([*Android*](https://play.google.com/store/apps/details?id=com.pushbullet.android&hl=en))- Sync media, messages across multiple devices.
 
 ## Websites
-1. [**Dayt.se**](http://dayt.se/), [**khatrimaza**](http://khatrimaza.org/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/), [**123Movies**](https://123movies.io/) - Get all the tv series and movies in HD.
+1. [**xPau.se**](http://xpau.se/movies/), [**khatrimaza**](http://khatrimaza.org/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/), [**123Movies**](https://123movies.io/), [**PutarFilm**](http://putarfilm.com/)- Get all the tv series and movies in HD.
 2. [**StackOverflow**](http://stackoverflow.com/), [**StackExchange**](http://stackexchange.com/) - Best QA sites
 3. [**GeeksforGeeks**](http://www.geeksforgeeks.org/) - Learn algorithms and data structures
 4. [**InterviewBit**](https://www.interviewbit.com/) - For programming interview preparation. ***Complete this before starting of the final year for excellent placements***
@@ -79,7 +79,8 @@
 38. [**8tracks.com**](http://8tracks.com/)- Make and discover playlists.
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
 40. [**codepen.io**](http://codepen.io/)- Edit HTML,CSS,JS online. Playground for front end web development.
-41. [**Zeta Uploader**](https://www.zeta-uploader.com/)- Zeta Uploader is used to send large files to any email address without any login/signup and you can protect your uploaded or sent data by password. For more detail visit Zeta Upolader site. 
+41. [**Zeta Uploader**](https://www.zeta-uploader.com/)- Zeta Uploader is used to send large files to any email address without any login/signup and you can protect your uploaded or sent data by password. For more detail visit Zeta Upolader site.
+42. [**Hotstar for Free**](kattappa.me/newlive?url=LINK_OF_HOTSTAR_VIDEO)- You can watch live match or anything else without having premium account on HotStar
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
