@@ -1,5 +1,7 @@
+[welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg
+[welcome-link]:  https://github.com/NIT-Hamirpur-NITH/tipsNtricks/pulls
 
-[![Build Status](https://travis-ci.org/NIT-Hamirpur-NITH/tipsNtricks.svg?branch=master)](https://travis-ci.org/NIT-Hamirpur-NITH/tipsNtricks)
+[![Build Status](https://travis-ci.org/NIT-Hamirpur-NITH/tipsNtricks.svg?branch=master)](https://travis-ci.org/NIT-Hamirpur-NITH/tipsNtricks) [![PRs & Issues Welcome][welcom-badge]][welcome-link]
 
 > A curated list of softwares, browser plugins, tools, tips and websites made by and for the student of NITH and maintained by the same.
 
