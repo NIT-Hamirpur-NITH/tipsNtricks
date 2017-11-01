@@ -45,7 +45,7 @@
 4. [**InterviewBit**](https://www.interviewbit.com/) - For programming interview preparation. ***Complete this before starting of the final year for excellent placements***
 5. [**Bitport.io**](https://bitport.io/), [**Seedr.cc**](https://www.seedr.cc/) - 2GB of torrent direct download
 6. [**Appxv**](https://appxv.com/) - get free paid apps for Android
-7.  [*https://it-ebooks.info/-*](https://it-ebooks.info/-) Download free ebooks.
+7. [**https://it-ebooks.info/**](https://it-ebooks.info/) Download free ebooks.
 8. **Filehippo.com** - Get all software for free.
 9. **Slack** - Group chat for projects
 10. **Quora, Reddit** - sites to read interesting content and get your queries answered.
@@ -70,7 +70,7 @@
 29. **Music.cliggo.com** - Provides music from youtube (app also)
 30. **Requestmaker.com** - like postman but online.
 31. **www.codinghorror.com** - Blog of stackoverflow co founder Jeff
-32. [*https://bento.io/*](https://bento.io/) - Shows you the links and paths of various tools and languages.
+32. [**https://bento.io/**](https://bento.io/) - Shows you the links and paths of various tools and languages.
 33. **Watch video in youtube without login:** nsfwyoutube.com/link
 34. **SecurityKiss.com**
 35. **http://www.linuxcommand.org** -This site gets you familiar with linux terminal commands.(Beginners should definitely visit this.)
@@ -90,7 +90,7 @@
 4. [*Talky*](https://talky.io/) (Google Hangout without registration)
 5. Flask.io (To do list without registration)
 6. Pen.io (Write Blog without registration)
-7. Rainy mood -  [*soundrown.com*](https://soundrown.com/) like sites. Listen any youtube video in rainymood:
+7. Rainy mood -  [*soundrown.com*](http://soundrown.com/) like sites. Listen any youtube video in rainymood:
     1. just open the video on youtube
     2. Replace the www.youtube.com/... link as www.rainymood.com/...
     3. e.g.: Your youtubevideo: https://www.youtube.com/watch?v=NTHz9ephYTw.Change it to: https://www.rainymood.com/watch?v=NTHz9ephYTw and here you go!!
