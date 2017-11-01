@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/NIT-Hamirpur-NITH/tipsNtricks.svg?branch=master)](https://travis-ci.org/NIT-Hamirpur-NITH/tipsNtricks)
+
 > A curated list of softwares, browser plugins, tools, tips and websites made by and for the student of NITH and maintained by the same.
 
 ## Contents
