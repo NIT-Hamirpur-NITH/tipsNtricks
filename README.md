@@ -245,4 +245,4 @@
 14. [**GitHub Desktop**](https://desktop.github.com/) - A GUI for using GitHub.
 15. [**Sublime Text 3**](http://www.sublimetext.com/) - The sophisticated text editor.
 16. [**Alfred**](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
-17. [**Clip Menu**](http://<www class="clipm"></www>enu.com/) - ClipBoard History Manager.
+17. [**Clip Menu**](http://clipmenu.com/) - ClipBoard History Manager.
