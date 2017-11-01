@@ -1,4 +1,4 @@
-> A curated list of softawres, browser plugins, tools, tips and websites made by and for the student of NITH and maintained by the same.
+> A curated list of softwares, browser plugins, tools, tips and websites made by and for the student of NITH and maintained by the same.
 
 ## Contents
 - [Firefox](#firefox)
