@@ -59,14 +59,14 @@
 11. **Search for “index of serial” on Google** - you would get one click download option in the results.
 12. **Ideone** - online code editor.
 13. **Oduso** - install multiple application in one go, using scripts made by this site.
-14. **Tlk.io** - site to create a chat room and chat anonymously or sign-in.
+14. **Tlk.io**,[**tawk.to**](https://www.tawk.to/) - site to create a chat room and chat anonymously or sign-in.
 15. **IRC** - chat site for professionals.
 16. **Pushbullet** - cross platform notification sharing
 17. **Github student’s account, gist, bitbucket**
 18. **Weiyun, Dropbox, MegaShare, GooglePhotos** - 1 TB cloud storage
 19. **Urbandictionary** - get the meaning of each and every slang/shortform used today.
 20. **Xdadevelopers.com** - everything related to android.
-21. **Heroku, AWS, hostinger** - hosting serivies for your projects
+21. **Heroku, AWS, hostinger** - hosting services for your projects
 22. **Koding.com**
 23. **Stumbleupon** - explore web new pages based on likes and dislikes and save pages.
 24. **Google forms** - create simple and user friendly forms for submission of entries.
