@@ -7,20 +7,20 @@ We would be happy to see your contribution to the list. The steps for contributi
 1. Fork the repository (by clicking the fork button above)
 2. Clone the repository to your system using the link that is generated after forking.
 3. Make those awesome changes. Commit them.
-4. Issues a Pull Request.
+4. Issue a Pull Request.
 5. See your contribution in the list.
 
 ## What to contribute
 Well the list of things that you can contribute are as follows:
 
 1. Improve this README. Maybe add items here.
-2. Add description about itmes mentioned on the list. Preferably provide a download link..
+2. Add description about itmes mentioned on the list. Preferably provide a download link.
 3. Add a link on tutorial on how to make the software work.
 4. Add alternatives for a software on different operating systems.
 5. Add items to the IOS category, that category is really poor.
 6. Add any item that you feel is necessary.
 7. Separate the list into multiple list based on the categories.
-8. Create a list that focuses on the internet related things in NITH, like the proxy working in various hostels, computer centre, timmings, or anything that would be useful to know.
+8. Create a list that focuses on the internet related things in NITH, like the proxy working in various hostels, computer centre, timings, or anything that would be useful to know.
 9. Add items that were told in the workshop but were not present in the list(like adding proxy in mobile).
 10. Add a list related to simple hacking.
 11. Arrange the items alphabetically.
