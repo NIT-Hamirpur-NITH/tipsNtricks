@@ -231,7 +231,7 @@
 22. **Middle click** - shortcut to paste the current selected text.
 23. **cd --** - to get back to previous directory.
 
-##Mac OS X
+## Mac OS X
 1. [**double Twist**](https://www.doubletwist.com/desktop/)- Bidirectional app for syncing media from Android to Mac.
 2. [**Spectacle**](https://www.spectacleapp.com)- Open source solution for moving and resizing windows with keyboard shortcuts.
 3. [**Tomighty**](http://www.tomighty.org)- A free and open source desktop timer for the Pomodoro Technique available for both mac and windows
